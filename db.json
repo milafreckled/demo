@@ -1,5 +1,5 @@
 {
-{
+"teachers": [{
   "username": "Stanisław",
   "firstName": "Stanisław",
   "lastName": "Skulimowski",
@@ -14,5 +14,5 @@
   "gender": "Male",
   "profileURL": "assets/img/szymczyk.jpeg",
   "email": "t.szymczyk@pollub.pl"
-}
+}]
 }
