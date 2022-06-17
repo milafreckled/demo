@@ -4,7 +4,7 @@
   "firstName": "Stanisław",
   "lastName": "Skulimowski",
   "gender": "Male",
-  "profileURL": "assets/img/skulimowski.jpeg",
+  "profileURL": "https://pl.linkedin.com/in/sskulimowski",
   "email": "s.skulimowski@pollub.pl"
 },
 {
@@ -12,7 +12,7 @@
   "firstName": "Tomasz",
   "lastName": "Szymczyk",
   "gender": "Male",
-  "profileURL": "assets/img/szymczyk.jpeg",
+  "profileURL": "https://weii.pollub.pl/studenci/praktyki-studenckie",
   "email": "t.szymczyk@pollub.pl"
 }]
 }
